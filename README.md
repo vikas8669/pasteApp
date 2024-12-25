@@ -17,6 +17,11 @@ This template provides a minimal setup for building a React application using Vi
 
 ---
 
+#Output
+
+![Vite + React - Google Chrome 25-12-2024 11_11_05](https://github.com/user-attachments/assets/e36f0cf7-a758-4a39-a9c0-a3a544fcb5b2)
+
+
 ## Installation
 
 ### Step 1: Create a Vite project
